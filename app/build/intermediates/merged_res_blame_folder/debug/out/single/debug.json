@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\drawable_ic_profile_white.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\drawable\\ic_profile_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\drawable_ic_wallet_white.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\drawable\\ic_wallet_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\layout_content_home.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\layout\\content_home.xml"
+    },
+    {
+        "merged": "com.example.vk24.app-merged_res-49:/layout_activity_signin.xml.flat",
+        "source": "com.example.vk24.app-main-51:/layout/activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\drawable_ic_home_white.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\drawable\\ic_home_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\drawable_ic_chat_white.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\drawable\\ic_chat_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\layout_footer_layout.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\layout\\footer_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\layout_header_layout.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\layout_activity_home2.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\layout\\activity_home2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\drawable_ic_search_white.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\drawable\\ic_search_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-merged_res-49:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\vivek\\.gradle\\daemon\\7.5\\com.example.vk24.app-main-51:\\layout\\fragment_first.xml"
+    }
+]

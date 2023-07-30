@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:ns0="http://schemas.android.com/apk/res/android" ns0:layout_width="match_parent" ns0:layout_height="match_parent" ns0:background="#FFF">
+
+
+    <include layout="@layout/header_layout" />
+
+
+    <ScrollView ns0:layout_width="match_parent" ns0:layout_height="match_parent" ns0:layout_below="@id/header" ns0:padding="16dp">
+
+        <LinearLayout ns0:layout_width="match_parent" ns0:layout_height="wrap_content" ns0:orientation="vertical" ns0:padding="16dp">
+
+
+
+
+
+
+
+
+
+            <EditText ns0:id="@+id/emailSignInInput" ns0:layout_width="match_parent" ns0:layout_height="wrap_content" ns0:hint="Email Address" ns0:inputType="textEmailAddress" ns0:layout_marginTop="8dp" ns0:contentDescription="Email input field" />
+
+            <Button ns0:id="@+id/signInButton" ns0:layout_width="match_parent" ns0:layout_height="60dp" ns0:layout_marginTop="16dp" ns0:text="Sign In" ns0:contentDescription="Sign in button" />
+
+
+            <TextView ns0:id="@+id/forgotPasswordLink" ns0:layout_width="wrap_content" ns0:layout_height="wrap_content" ns0:layout_gravity="center_horizontal" ns0:layout_marginTop="16dp" ns0:clickable="true" ns0:focusable="true" ns0:text="Forgot password?" ns0:textAlignment="center" ns0:textColor="#000" />
+
+            <com.facebook.login.widget.LoginButton ns0:id="@+id/login_button" ns0:layout_width="wrap_content" ns0:layout_height="wrap_content" ns0:layout_gravity="center_horizontal" ns0:layout_marginTop="32dp" />
+
+            <com.google.android.gms.common.SignInButton ns0:id="@+id/sign_in_button" ns0:layout_width="wrap_content" ns0:layout_height="wrap_content" ns0:layout_gravity="center_horizontal" ns0:layout_marginTop="32dp">
+
+                <EditText ns0:id="@+id/passwordSignInInput" ns0:layout_width="match_parent" ns0:layout_height="wrap_content" ns0:layout_marginTop="8dp" ns0:hint="Password" ns0:inputType="textPassword" ns0:contentDescription="Password input field" />
+            </com.google.android.gms.common.SignInButton>
+
+
+            <CheckBox ns0:id="@+id/rememberMeCheckbox" ns0:layout_width="wrap_content" ns0:layout_height="wrap_content" ns0:layout_marginTop="16dp" ns0:text="Remember me" />
+
+            <CheckBox ns0:id="@+id/rememberMeCheckBox" ns0:layout_width="wrap_content" ns0:layout_height="wrap_content" ns0:layout_marginStart="20dp" ns0:layout_marginTop="10dp" ns0:text="Remember Me" />
+
+
+            <com.google.android.gms.common.SignInButton ns0:id="@+id/googleSignInButton" ns0:layout_width="wrap_content" ns0:layout_height="wrap_content" ns0:layout_gravity="center_horizontal" ns0:layout_marginTop="32dp" />
+
+
+            <com.facebook.login.widget.LoginButton ns0:id="@+id/facebookSignInButton" ns0:layout_width="wrap_content" ns0:layout_height="wrap_content" ns0:layout_gravity="center_horizontal" ns0:layout_marginTop="32dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

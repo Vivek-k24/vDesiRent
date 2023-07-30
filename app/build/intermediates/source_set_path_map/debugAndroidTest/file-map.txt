@@ -1,0 +1,7 @@
+com.example.vk24.test.app-core-1.5.0-0 C:\Users\vivek\.gradle\caches\transforms-3\c3f40d112b647f41ebba07803c9b6eed\transformed\core-1.5.0\res
+com.example.vk24.test.app-annotation-experimental-1.3.0-1 C:\Users\vivek\.gradle\caches\transforms-3\e9908ad87e2a539e018b98a2c22c9949\transformed\annotation-experimental-1.3.0\res
+com.example.vk24.test.app-androidTest-2 D:\Dev_projects\vk24\app\build\generated\res\resValues\androidTest\debug
+com.example.vk24.test.app-androidTest-3 D:\Dev_projects\vk24\app\build\generated\res\rs\androidTest\debug
+com.example.vk24.test.app-mergeDebugAndroidTestResources-4 D:\Dev_projects\vk24\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.vk24.test.app-mergeDebugAndroidTestResources-5 D:\Dev_projects\vk24\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.vk24.test.app-merged_res-6 D:\Dev_projects\vk24\app\build\intermediates\merged_res\debugAndroidTest

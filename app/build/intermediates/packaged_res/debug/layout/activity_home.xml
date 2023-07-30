@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+    <!-- Including Header -->
+
+    <!-- Floating Search Bar -->
+    <include layout="@layout/header_layout"
+             android:id="@+id/header"/>
+    <EditText
+            android:id="@+id/search_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/header"
+            android:visibility="gone"
+            android:hint="Search..."
+            android:drawableStart="@drawable/ic_search_white"
+            android:padding="10dp"
+            android:background="@android:color/white"
+            android:textColor="@android:color/black" />
+
+    <!-- Content goes here -->
+
+    <!-- Footer -->
+    <LinearLayout
+            android:id="@+id/footer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@android:color/black"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:padding="10dp">
+
+        <ImageView
+                android:id="@+id/home_icon"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/ic_home_white"/>
+
+        <!-- Other icons (chat, wallet, profile) can be added similarly -->
+
+    </LinearLayout>
+
+</RelativeLayout>
